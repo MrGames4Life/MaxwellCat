@@ -1,0 +1,10 @@
+C:\Users\Alumno\Source\Repos\Mascota\bin\Debug\Mascota.exe.config
+C:\Users\Alumno\Source\Repos\Mascota\bin\Debug\Mascota.exe
+C:\Users\Alumno\Source\Repos\Mascota\bin\Debug\Mascota.pdb
+C:\Users\Alumno\Source\Repos\Mascota\obj\Debug\Mascota.csproj.AssemblyReference.cache
+C:\Users\Alumno\Source\Repos\Mascota\obj\Debug\Mascota.Form1.resources
+C:\Users\Alumno\Source\Repos\Mascota\obj\Debug\Mascota.Properties.Resources.resources
+C:\Users\Alumno\Source\Repos\Mascota\obj\Debug\Mascota.csproj.GenerateResource.cache
+C:\Users\Alumno\Source\Repos\Mascota\obj\Debug\Mascota.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Source\Repos\Mascota\obj\Debug\Mascota.exe
+C:\Users\Alumno\Source\Repos\Mascota\obj\Debug\Mascota.pdb
